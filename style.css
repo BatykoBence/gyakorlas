@@ -12,6 +12,8 @@ font-family: 'Open Sans', sans-serif;
     border:solid thin #cfcfcf;
     padding:10px;
     border-radius:3px;
+    padding-bottom: 20px;
+    position:relative;
 
 }
 .newsletter button{
@@ -36,4 +38,16 @@ font-family: 'Open Sans', sans-serif;
 .newsletter h3{
     margin-top:0;
     
+}
+
+.newsletter #closex {
+    position: absolute;
+    top: 0;
+    right: 4px;
+
+}
+.newsletter #terms{
+    position: relative;
+    top: 1px;
+
 }
