@@ -91,7 +91,7 @@ background-color:#3cb878;
     
 
 }
-#card holder {
+#card-holder {
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
